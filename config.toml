@@ -3,7 +3,7 @@ languageCode = "es-es"
 title = "Innovación Social Podcast"
 theme = "castanet"
 googleAnalytics = ""
-themesdir = "../.."
+themesdir = "./themes"
 paginate = "9"
 
 
