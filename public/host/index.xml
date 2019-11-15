@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hosts on Innovación Social Podcast</title>
+    <title>Anfitriones de Innovación Social Podcast on Innovación Social Podcast</title>
     <link>https://competent-mccarthy-c70699.netlify.com/host/</link>
-    <description>Recent content in Hosts on Innovación Social Podcast</description>
+    <description>Recent content in Anfitriones de Innovación Social Podcast on Innovación Social Podcast</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
+    <lastBuildDate>Fri, 15 Nov 2019 06:00:48 -0500</lastBuildDate>
     
 	<atom:link href="https://competent-mccarthy-c70699.netlify.com/host/index.xml" rel="self" type="application/rss+xml" />
     
@@ -16,7 +17,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://competent-mccarthy-c70699.netlify.com/host/cguemes/</guid>
-      <description>Cecilia es muy experta en innovación social.</description>
+      <description>Cecilia es muy experta en Innovación Social.</description>
     </item>
     
     <item>
@@ -25,7 +26,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://competent-mccarthy-c70699.netlify.com/host/cgarcia/</guid>
-      <description>Es muy experto en innovación Social</description>
+      <description>César es muy experto en Innovación Social.</description>
     </item>
     
   </channel>
