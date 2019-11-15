@@ -6,8 +6,8 @@ Type = "host"
 Facebook = "cesargarcia"
 Linkedin = "cesargarciasaez"
 GitHub = "elsatch"
-Thumbnail = "img/host/johndoe.png"
+Thumbnail = "img/host/cesar.jpg"
 Instagram = "elsatch"
 YouTube = "lahoramaker"
 +++
-Es muy experto en innovación Social
+César es muy experto en Innovación Social.
