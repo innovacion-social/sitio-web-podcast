@@ -1,4 +1,4 @@
-baseurl = "https://competent-mccarthy-c70699.netlify.com//"
+baseurl = "https://competent-mccarthy-c70699.netlify.com/"
 languageCode = "es-es"
 title = "Innovación Social Podcast"
 theme = "castanet"
@@ -17,7 +17,7 @@ paginate = "9"
 # The menu name must be "Main"
 # The menus are sorted based upon their identifier
 [[Menu.Main]]
-    name = "About"
+    name = "Acerca de"
     identifier = "about"
     url = "/about"
 
