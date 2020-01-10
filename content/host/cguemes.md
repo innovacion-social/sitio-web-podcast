@@ -7,7 +7,7 @@ Linkedin = "ceciliaguemes"
 GitHub = "ceciliaguemes"
 Thumbnail = "img/host/cecilia.jpg"
 Instagram = "ceciliaguemes"
-Academia = "https://uam.academia.edu/CeciliaGuemes"
+Academia = "https://uam.academia.edu/ceciliaguemes"
 +++
 Cecilia investiga sobre confianza y  políticas públicas, intentando entender la realidad para poder cambiarla.  
  
