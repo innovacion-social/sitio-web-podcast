@@ -2,6 +2,9 @@ baseurl = "https://competent-mccarthy-c70699.netlify.com/"
 languageCode = "es-es"
 title = "Innovación Social Podcast"
 theme = "castanet"
+canonifyurls = false
+buildFuture = false
+buildDrafts = false
 googleAnalytics = ""
 themesdir = "./themes"
 paginate = "9"
@@ -11,7 +14,6 @@ paginate = "9"
 	# page = "/:filename/"
 	about = "/:filename/"
 	episode = "/:filename/"
-
 
 # The theme supports menus with up to one submenu per menu item
 # The menu name must be "Main"
@@ -60,7 +62,8 @@ site_layout = "grid"
 enable_jumbo = "true"
 # enable_jumbo = "false"
 # truncate = "100"
-about_logo = "/img/logo_innovacion_social.png"
+about_logo = "img/logo_innovacion_social.png"
+favicon = "icons/favicon_innovacion_social.png"
 copyright_notice = "Copyright 2019-2020 [Innovación Social Podcast](https://innovacion.social)"
 itunes_subscribe = "http://itunes.apple.com/us/podcast/arrested-devops/id773888088?mt=2&uo=4&at=11lsCi"
 android_subscribe = "http://subscribeonandroid.com/feeds.podtrac.com/VGAulpN7MY1U"
@@ -96,7 +99,7 @@ disqusShortname = ""
     subscribe_size = "medium"         # options: small, medium, big
     subscribe_format = "rectangle"    # options: rectangle, square, cover
     subscribe_style = "filled"        # options: filled, outline, frameless
-    subscribe_language = "de"         # options: nl (dutch), en (english), eo (esperanto), de (german), fi (finnish), fr (french), ja (french)
+    subscribe_language = "es"         # options: nl (dutch), en (english), eo (esperanto), de (german), fi (finnish), fr (french), ja (french)
     subscribe_feed_type = "audio"     # options: audio, video
     subscribe_feed_format = "mp3"     # options: mp3, aac, ogg, opus
 
@@ -117,7 +120,7 @@ disqusShortname = ""
   [params.authors]
     [params.authors.Cecilia]
       name	= "Cecilia Güemes"
-      thumbnail = "img/host/cecilia.jpg"
+      thumbnail = "img/host/cecilia_guemes.jpg"
       bio = "Cecilia es experta en Innovación Social"
       [params.authors.Cecilia.social]
         facebook = "ceciliaguemes"
@@ -129,7 +132,7 @@ disqusShortname = ""
 
     [params.authors.Cesar]
       name = "César García"
-      thumbnail = "img/host/cesar.jpg"
+      thumbnail = "img/host/cesar_garcia.jpg"
       bio = "César es experto en Innovación Social"
       [params.authors.Cesar.social]
          facebook = "cesargarcia"
