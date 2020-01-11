@@ -3,12 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://competent-mccarthy-c70699.netlify.com/guest/lsanchez/</loc>
-    <lastmod>2020-01-10T02:12:31+01:00</lastmod>
+    <loc>https://competent-mccarthy-c70699.netlify.com/guest/epolo/</loc>
+    <lastmod>2020-01-11T15:12:57+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://competent-mccarthy-c70699.netlify.com/</loc>
+    <lastmod>2020-01-11T15:12:57+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://competent-mccarthy-c70699.netlify.com/guest/lsanchez/</loc>
     <lastmod>2020-01-10T02:12:31+01:00</lastmod>
   </url>
   
@@ -33,76 +38,6 @@
   </url>
   
   <url>
-    <loc>https://competent-mccarthy-c70699.netlify.com/guest/scox/</loc>
-    <lastmod>2017-06-10T09:12:44-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://competent-mccarthy-c70699.netlify.com/guest/kgrant/</loc>
-    <lastmod>2017-06-10T09:12:43-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://competent-mccarthy-c70699.netlify.com/guest/rshaw/</loc>
-    <lastmod>2017-06-10T09:12:43-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://competent-mccarthy-c70699.netlify.com/guest/chernandez/</loc>
-    <lastmod>2017-06-10T09:12:42-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://competent-mccarthy-c70699.netlify.com/guest/rcastillo/</loc>
-    <lastmod>2017-06-10T09:12:42-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://competent-mccarthy-c70699.netlify.com/guest/ccooper/</loc>
-    <lastmod>2017-06-10T09:12:41-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://competent-mccarthy-c70699.netlify.com/guest/jlong/</loc>
-    <lastmod>2017-06-10T09:12:41-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://competent-mccarthy-c70699.netlify.com/guest/sparker/</loc>
-    <lastmod>2017-06-10T09:12:41-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://competent-mccarthy-c70699.netlify.com/guest/ajohnston/</loc>
-    <lastmod>2017-06-10T09:12:39-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://competent-mccarthy-c70699.netlify.com/guest/smorgan/</loc>
-    <lastmod>2017-06-10T09:12:39-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://competent-mccarthy-c70699.netlify.com/guest/chamilton/</loc>
-    <lastmod>2017-06-10T09:12:38-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://competent-mccarthy-c70699.netlify.com/guest/rtaylor/</loc>
-    <lastmod>2017-06-10T09:12:38-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://competent-mccarthy-c70699.netlify.com/guest/cadams/</loc>
-    <lastmod>2017-06-10T09:12:37-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://competent-mccarthy-c70699.netlify.com/guest/kdixon/</loc>
-    <lastmod>2017-06-10T09:12:36-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://competent-mccarthy-c70699.netlify.com/contact/</loc>
     <lastmod>2017-04-27T15:19:36-05:00</lastmod>
   </url>
@@ -110,31 +45,6 @@
   <url>
     <loc>https://competent-mccarthy-c70699.netlify.com/books/</loc>
     <lastmod>2017-04-27T15:18:55-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://competent-mccarthy-c70699.netlify.com/guest/mstratton/</loc>
-    <lastmod>2017-04-27T13:53:32-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://competent-mccarthy-c70699.netlify.com/guest/jsmith/</loc>
-    <lastmod>2016-12-08T20:55:58-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://competent-mccarthy-c70699.netlify.com/guest/jsmith2/</loc>
-    <lastmod>2016-12-08T20:55:58-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://competent-mccarthy-c70699.netlify.com/guest/jsmith3/</loc>
-    <lastmod>2016-12-08T20:55:58-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://competent-mccarthy-c70699.netlify.com/sept/</loc>
-    <lastmod>2016-09-25T04:10:01-05:00</lastmod>
   </url>
   
   <url>
@@ -150,61 +60,6 @@
   <url>
     <loc>https://competent-mccarthy-c70699.netlify.com/guest/</loc>
     <lastmod>2016-09-25T02:11:48-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://competent-mccarthy-c70699.netlify.com/aug/</loc>
-    <lastmod>2016-08-25T04:09:58-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://competent-mccarthy-c70699.netlify.com/july/</loc>
-    <lastmod>2016-07-25T04:09:54-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://competent-mccarthy-c70699.netlify.com/june/</loc>
-    <lastmod>2016-06-25T04:09:51-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://competent-mccarthy-c70699.netlify.com/may/</loc>
-    <lastmod>2016-05-25T04:09:48-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://competent-mccarthy-c70699.netlify.com/april/</loc>
-    <lastmod>2016-04-25T04:09:45-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://competent-mccarthy-c70699.netlify.com/march/</loc>
-    <lastmod>2016-03-25T04:09:40-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://competent-mccarthy-c70699.netlify.com/feb/</loc>
-    <lastmod>2016-02-25T04:08:20-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://competent-mccarthy-c70699.netlify.com/jan/</loc>
-    <lastmod>2016-01-25T04:08:15-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://competent-mccarthy-c70699.netlify.com/dec/</loc>
-    <lastmod>2015-12-25T04:10:10-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://competent-mccarthy-c70699.netlify.com/nov/</loc>
-    <lastmod>2015-11-25T04:10:07-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://competent-mccarthy-c70699.netlify.com/oct/</loc>
-    <lastmod>2015-10-25T04:10:04-05:00</lastmod>
   </url>
   
   <url>
