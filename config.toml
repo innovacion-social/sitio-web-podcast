@@ -40,7 +40,6 @@ paginate = "9"
     name = "Recursos"
     identifier = "resources"
     url = "#!"
-
 [[Menu.Main]]
     name = "Artículos"
     identifier = "articles"
@@ -51,11 +50,7 @@ paginate = "9"
     identifier = "books"
     url = "/libros"
     parent = "resources"
-[[Menu.Main]]
-    name = "Podcasts"
-    identifier = "podcasts"
-    url = "/podcasts"
-    parent = "resources"
+
 
 [params]
 mainSections = ["episodio"]
@@ -66,7 +61,7 @@ enable_jumbo = "true"
 # enable_jumbo = "false"
 # truncate = "100"
 about_logo = "/img/logo_innovacion_social.png"
-copyright_notice = "Copyright 2019 [Innovación Social Podcast](https://innovacion.social)"
+copyright_notice = "Copyright 2019-2020 [Innovación Social Podcast](https://innovacion.social)"
 itunes_subscribe = "http://itunes.apple.com/us/podcast/arrested-devops/id773888088?mt=2&uo=4&at=11lsCi"
 android_subscribe = "http://subscribeonandroid.com/feeds.podtrac.com/VGAulpN7MY1U"
 spotify_subscribe = "https://open.spotify.com/show/..."
@@ -77,23 +72,23 @@ spotify_subscribe = "https://open.spotify.com/show/..."
 #mailchimp_subscribe = "//arresteddevops.us3.list-manage.com/subscribe/post?u=5e4cbcac996bb9df25f970a89&amp;id=154fa76bcc"
 #rss_subscribe = "http://feed.com/myfeed" #only set this if you don't want to use the built-in feed
 description = "Innovacion Social Podcast te acerca las últimas novedades de los proyectos que te inspiran."
-media_prefix = "https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/"
+media_prefix = "https://innovaciosocial.libsyn.com/"
 disqusShortname = ""
   [params.feed]
-    copyright = "Copyright 2019 Innovación Social Podcast" #do not use markdown in this field; it is used in the feed
+    copyright = "Copyright 2019-2020 Innovación Social Podcast" #do not use markdown in this field; it is used in the feed
     itunes_subtitle = "El mejor podcast para conocer los proyectos que cambian el mundo" #no markdown or HTML
     itunes_author = "Cecilia Güemes y César García" #no markdown or HTML
     itunes_summary = "The HugoCast is the best podcast you've ever seen. You will learn everything you ever needed to know about podcasting from the most inspiring experts to ever show up on the whole internet." # Limited to 4000 characters or less, plain text, no HTML
     itunes_owner_name = "Innovación Social"
     itunes_owner_email = "info@innovacion.social" #contains the e-mail address that will be used to contact the owner of the Podcast for communication specifically about their Podcast on iTunes. It will not be publicly displayed on iTunes.
-    itunes_image = "https://www.arresteddevops.com/img/ado-podcast-logo.png" #fqdn to the image art for your podcast
+    itunes_image = "https://innovacion.social.png" #fqdn to the image art for your podcast
     itunes_top_category = "Culture"
-    itunes_first_sub_category = "Software How-To"
-    itunes_second_sub_category = "Tech News"
+    itunes_first_sub_category = "Education"
+    itunes_second_sub_category = "News"
     language = "es-es"
 
   [params.podlove] # https://subscribe-button.podlove.org
-    subscribe_title = ""              # fallback: site title from above
+    subscribe_title = "Subscríbete"              # fallback: site title from above
     subscribe_subtitle = ""           # fallback: ""
     subscribe_description = ""        # fallback: ""
     subscribe_cover = "img/logo.jpg"  # fallback: ""
@@ -106,17 +101,18 @@ disqusShortname = ""
     subscribe_feed_format = "mp3"     # options: mp3, aac, ogg, opus
 
   [params.social]
-    github = "arresteddevops"
-    gitlab = "mattstratton"
-    facebook = "Arresteddevops"
+  #  github = "innovacion.social"
+  #  gitlab = "mattstratton"
+    facebook = "Innovacion.Social.podcast"
     facebook_admin = ["500557137","1234"] # This needs to be one or more page admins to get domain insights
-    twitter = "arresteddevops"
-    twitter_domain = "arresteddevops.com" # This domain shows in twitter cards as "View on `twitter_domain`"
-    googleplus = "ArrestedDevOps"
-    pinterest = "nozzleio"
-    instagram = "nozzleio"
-    youtube = "arresteddevops"
-    linkedin = "mattstratton"
+    twitter = "Innova_social"
+    twitter_domain = "innovacion.social" # This domain shows in twitter cards as "View on `twitter_domain`"
+ #   googleplus = "ArrestedDevOps"
+ #   pinterest = "nozzleio"
+    instagram = "Innovacion.Social.podcast"
+    tiktok = "InnovacionSocial"
+ #   youtube = "arresteddevops"
+ #   linkedin = "mattstratton"
 
   [params.authors]
     [params.authors.Cecilia]
@@ -124,31 +120,21 @@ disqusShortname = ""
       thumbnail = "img/host/cecilia.jpg"
       bio = "Cecilia es experta en Innovación Social"
       [params.authors.Cecilia.social]
-        github = "mattstratton"
-        facebook = "matt.stratton"
-        twitter = "mattstratton"
+        facebook = "ceciliaguemes"
+        twitter = "ceciliaguemes"
         linkedin = "mattstratton"
-        homepage = "https://www.mattstratton.io"
-        pinterest = "mattstratton"
-        instagram = "instagram"
-        youtube = "mattstratton"
+        instagram = "ceciliaguemes"
+	homepage = "https://www.ceciliaguemes.com"
+
 
     [params.authors.Cesar]
       name = "César García"
       thumbnail = "img/host/cesar.jpg"
       bio = "César es experto en Innovación Social"
-      [params.authors.Bridget.social]
-        twitter = "elsatch"
-
-    [params.links]
-      [params.links.ado]
-        name = "Arrested DevOps"
-        url = "https://www.arresteddevops.com"
-      [params.links.ffs]
-        name = "Food Fight Show"
-        url = "https://foodfightshow.org"
-      [params.links.sdt]
-        name = "Software Defined Talk"
-        url = "https://cote.io/podcasts/sdt/"
-
-
+      [params.authors.Cesar.social]
+         facebook = "cesargarcia"
+	 twitter = "elsatch"
+	 linkedin = "cesargarciasaez"
+	 github = "elsatch"
+	 youtube = "lahoramaker"
+         homepage = "https://www.cesargarciasaez.com"
