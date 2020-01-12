@@ -90,18 +90,18 @@ disqusShortname = ""
     itunes_second_sub_category = "News"
     language = "es-es"
 
-  [params.podlove] # https://subscribe-button.podlove.org
-    subscribe_title = "Subscríbete"              # fallback: site title from above
-    subscribe_subtitle = ""           # fallback: ""
-    subscribe_description = ""        # fallback: ""
-    subscribe_cover = "img/logo.jpg"  # fallback: ""
-    subscribe_color = "#585e6c"       # fallback: ""
-    subscribe_size = "medium"         # options: small, medium, big
-    subscribe_format = "rectangle"    # options: rectangle, square, cover
-    subscribe_style = "filled"        # options: filled, outline, frameless
-    subscribe_language = "es"         # options: nl (dutch), en (english), eo (esperanto), de (german), fi (finnish), fr (french), ja (french)
-    subscribe_feed_type = "audio"     # options: audio, video
-    subscribe_feed_format = "mp3"     # options: mp3, aac, ogg, opus
+#  [params.podlove] # https://subscribe-button.podlove.org
+#    subscribe_title = "Subscríbete"              # fallback: site title from above
+#    subscribe_subtitle = ""           # fallback: ""
+#    subscribe_description = ""        # fallback: ""
+#    subscribe_cover = "img/logo.jpg"  # fallback: ""
+#    subscribe_color = "#585e6c"       # fallback: ""
+#    subscribe_size = "medium"         # options: small, medium, big
+#    subscribe_format = "rectangle"    # options: rectangle, square, cover
+#    subscribe_style = "filled"        # options: filled, outline, frameless
+#    subscribe_language = "es"         # options: nl (dutch), en (english), eo (esperanto), de (german), fi (finnish), fr (french), ja (french)
+#    subscribe_feed_type = "audio"     # options: audio, video
+#    subscribe_feed_format = "mp3"     # options: mp3, aac, ogg, opus
 
   [params.social]
   #  github = "innovacion.social"
