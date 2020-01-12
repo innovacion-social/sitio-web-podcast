@@ -45,12 +45,12 @@ paginate = "9"
 [[Menu.Main]]
     name = "Artículos"
     identifier = "articles"
-    url = "/articulos"
+    url = "/articles/"
     parent = "resources"
 [[Menu.Main]]
     name = "Libros"
     identifier = "books"
-    url = "/libros"
+    url = "/books/"
     parent = "resources"
 
 
