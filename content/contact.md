@@ -1,6 +1,6 @@
 +++
 title = "Contáctanos"
-description = "Contáctanosabout this site"
+description = "Descubre de qué formas puedes contáctarnos"
 date = "2019-11-01"
 +++
 ¿Te gustaría aparecer en un episodio futuro del podcast? ¿Te gustaría apoyar nuestra labor sponsorizando el podcast?

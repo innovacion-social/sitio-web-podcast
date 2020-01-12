@@ -2,7 +2,7 @@ baseurl = "https://competent-mccarthy-c70699.netlify.com/"
 languageCode = "es-es"
 title = "Innovación Social Podcast"
 theme = "castanet"
-canonifyurls = false
+#canonifyurls = false
 buildFuture = false
 buildDrafts = false
 googleAnalytics = ""
@@ -62,8 +62,8 @@ site_layout = "grid"
 enable_jumbo = "true"
 # enable_jumbo = "false"
 # truncate = "100"
-about_logo = "img/logo_innovacion_social.png"
-favicon = "icons/favicon_innovacion_social.png"
+# about_logo = "img/logo_innovacion_social.png"
+favicon = "icon/favicon_innovacion_social.png"
 copyright_notice = "Copyright 2019-2020 [Innovación Social Podcast](https://innovacion.social)"
 itunes_subscribe = "http://itunes.apple.com/us/podcast/arrested-devops/id773888088?mt=2&uo=4&at=11lsCi"
 android_subscribe = "http://subscribeonandroid.com/feeds.podtrac.com/VGAulpN7MY1U"
@@ -74,8 +74,8 @@ spotify_subscribe = "https://open.spotify.com/show/..."
 #pocketcasts_subscribe = "http://pcasts.in/feed/feeds.soundcloud.com/users/soundcloud:users:203144248/sounds.rss"
 #mailchimp_subscribe = "//arresteddevops.us3.list-manage.com/subscribe/post?u=5e4cbcac996bb9df25f970a89&amp;id=154fa76bcc"
 #rss_subscribe = "http://feed.com/myfeed" #only set this if you don't want to use the built-in feed
-description = "Innovacion Social Podcast te acerca las últimas novedades de los proyectos que te inspiran."
-media_prefix = "https://innovaciosocial.libsyn.com/"
+description = "Innovacion Social Podcast te acerca las últimas novedades de los proyectos que te inspiran"
+media_prefix = "http://traffic.libsyn.com/innovacionsocial/"
 disqusShortname = ""
   [params.feed]
     copyright = "Copyright 2019-2020 Innovación Social Podcast" #do not use markdown in this field; it is used in the feed

@@ -18,7 +18,7 @@
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <language>es-es</language>
-    <copyright>Copyright 2019 Innovación Social Podcast</copyright>
+    <copyright>Copyright 2019-2020 Innovación Social Podcast</copyright>
     <itunes:subtitle>El mejor podcast para conocer los proyectos que cambian el mundo</itunes:subtitle>
     <itunes:author>Cecilia Güemes y César García</itunes:author>
     <itunes:type>episodic</itunes:type>
@@ -30,21 +30,21 @@
       <itunes:name>Innovación Social</itunes:name>
       <itunes:email>info@innovacion.social</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://www.arresteddevops.com/img/ado-podcast-logo.png" />
-    <googleplay:image href="https://www.arresteddevops.com/img/ado-podcast-logo.png"></googleplay:image>
+    <itunes:image href="https://innovacion.social.png" />
+    <googleplay:image href="https://innovacion.social.png"></googleplay:image>
     <image>
-      <url>https://www.arresteddevops.com/img/ado-podcast-logo.png</url>
+      <url>https://innovacion.social.png</url>
       <title>Innovación Social Podcast</title>
       <link>https://competent-mccarthy-c70699.netlify.com/</link>
     </image>
     <itunes:category text="Culture">
-      <itunes:category text="Software How-To" /><itunes:category text="Tech News" /></itunes:category><generator>Hugo -- gohugo.io</generator>
+      <itunes:category text="Education" /><itunes:category text="News" /></itunes:category><generator>Hugo -- gohugo.io</generator>
         <item>
-          <title></title>
+          <title>Educacion De Calidad Con Laia Y Empar De Citilab</title>
           <link>https://competent-mccarthy-c70699.netlify.com/02-educacion-citilab/</link>
           <pubDate>Fri, 10 Jan 2020 02:11:47 +0100 </pubDate>
           <dc:creator></dc:creator>
-          <guid>https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/02-educacion-citilab.mp3</guid>
+          <guid>https://innovaciosocial.libsyn.com/02-educacion-citilab.mp3</guid>
           <itunes:author>
             
             
@@ -52,19 +52,21 @@
               
                     and Cecilia Güemes</itunes:author>
           
-        <itunes:summary>Hoy hablaremos con Laia Sanchez y Empar Polo de Citilab sobre el Objetivo de Desarrollo Sostenbile 4, que trata de sobre Educación de Calidad</itunes:summary>
-        <description>Hoy hablaremos con Laia Sanchez y Empar Polo de Citilab sobre el Objetivo de Desarrollo Sostenbile 4, que trata de sobre Educación de Calidad</description>
-        <googleplay:description>Hoy hablaremos con Laia Sanchez y Empar Polo de Citilab sobre el Objetivo de Desarrollo Sostenbile 4, que trata de sobre Educación de Calidad</googleplay:description>
-        <content:encoded><![CDATA[<p>Hoy hablaremos con Laia Sanchez y Empar Polo de Citilab sobre el Objetivo de Desarrollo Sostenbile 4, que trata de sobre Eduación de Calidad.</p>
-]]></content:encoded><itunes:image href="https://competent-mccarthy-c70699.netlify.com/img/episode/default.jpg"></itunes:image>
-          <googleplay:image href="https://competent-mccarthy-c70699.netlify.com/img/episode/default.jpg"></googleplay:image><enclosure url="https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/02-educacion-citilab.mp3"  type="audio/mpeg" /><itunes:duration>18 min</itunes:duration><itunes:explicit>no</itunes:explicit>
+        <itunes:summary>Hoy hablaremos con Laia Sanchez y Empar Polo de Citilab sobre el Objetivo de Desarrollo Sostenbile 4, que trata sobre Educación de Calidad</itunes:summary>
+        <description>Hoy hablaremos con Laia Sanchez y Empar Polo de Citilab sobre el Objetivo de Desarrollo Sostenbile 4, que trata sobre Educación de Calidad</description>
+        <googleplay:description>Hoy hablaremos con Laia Sanchez y Empar Polo de Citilab sobre el Objetivo de Desarrollo Sostenbile 4, que trata sobre Educación de Calidad</googleplay:description>
+        <content:encoded><![CDATA[<p>Hoy hablaremos con Laia Sanchez y Empar Polo de Citilab sobre el Objetivo de Desarrollo Sostenible 4, que trata sobre Eduación de Calidad.</p>
+<p>Citilab es un laboratorio ciudadano para la innovación social y digital, en Cornellà de Llobregat, Barcelona. Esta iniciativa explora y difunde el impacto digital en el pensamiento creativo, el diseño y la innovación que surgen de la cultura digital. (Sitio web de <a href="http://citilab.eu">Citilab</a>)</p>
+<p>En la entrevista de hoy hablaremos con Laia Sanchez sobre cómo se desarrollan los programas de aprendizaje en el centro, para promover una participación activa de los ciudadanos en sus procesos de aprendizaje. Empar Polo nos hablará sobre el programa que están desarrollando en el Thinklab, para vincular los programas de investigación de bachillerato con los Objetivos de Desarrollo Sostenible y los agentes del ecosistema de innovación de la ciudad.a</p>
+]]></content:encoded><itunes:image href="https://competent-mccarthy-c70699.netlify.com/img/episode/02-entrevista_citilab_empar_polo.jpg"></itunes:image>
+          <googleplay:image href="https://competent-mccarthy-c70699.netlify.com/img/episode/02-entrevista_citilab_empar_polo.jpg"></googleplay:image><enclosure url="https://innovaciosocial.libsyn.com/02-educacion-citilab.mp3"  type="audio/mpeg" /><itunes:duration>18 min</itunes:duration><itunes:explicit>no</itunes:explicit>
           <googleplay:explicit>no</googleplay:explicit></item>
         <item>
           <title>Presentamos Innovación Social Podcast</title>
           <link>https://competent-mccarthy-c70699.netlify.com/01-presentaciones/</link>
           <pubDate>Fri, 10 Jan 2020 02:11:28 +0100 </pubDate>
           <dc:creator></dc:creator>
-          <guid>https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/01-presentaciones.mp3</guid>
+          <guid>https://innovaciosocial.libsyn.com/01-presentaciones.mp3</guid>
           <itunes:author>
             
             
@@ -79,6 +81,6 @@
         <googleplay:description>Presentamos Innovación Social Podcast</googleplay:description>
         <content:encoded><![CDATA[<p>Bienvenido/a al primer episodio de Innovación Social Podcast! Somos Cecilia Güemes y César Garcia. En el capítulo de hoy te vamos a contar de qué trata este nuevo podcast. Hablaremos también de nuestra motiviación para embarcarnos en esta nueva aventura y sobre los temas que vamos explorar durante la primera temporada.</p>
 ]]></content:encoded><itunes:image href="https://competent-mccarthy-c70699.netlify.com/img/episode/default.jpg"></itunes:image>
-          <googleplay:image href="https://competent-mccarthy-c70699.netlify.com/img/episode/default.jpg"></googleplay:image><enclosure url="https://media.blubrry.com/arresteddevops/content.blubrry.com/arresteddevops/01-presentaciones.mp3"  type="audio/mpeg" /><itunes:duration>15 min</itunes:duration><itunes:explicit>no</itunes:explicit>
+          <googleplay:image href="https://competent-mccarthy-c70699.netlify.com/img/episode/default.jpg"></googleplay:image><enclosure url="https://innovaciosocial.libsyn.com/01-presentaciones.mp3"  type="audio/mpeg" /><itunes:duration>15 min</itunes:duration><itunes:explicit>no</itunes:explicit>
           <googleplay:explicit>no</googleplay:explicit></item></channel>
 </rss>
