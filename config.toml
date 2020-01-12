@@ -56,7 +56,7 @@ paginate = "9"
 
 [params]
 mainSections = ["episode"]
-site_theme = "grey"
+site_theme = "innosoc"
 #site_layout = "grid"
 site_layout = "row"
 enable_jumbo = "true"
