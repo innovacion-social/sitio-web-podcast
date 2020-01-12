@@ -3,7 +3,7 @@
   <div class="row">
     <div class="col">
       <h1>{{ title .Title }}</h1>
-      <small>Posted on {{ dateFormat "Monday, Jan 2, 2006" .Date }}</small>
+      <small>Publicado el {{ dateFormat "Monday, Jan 2, 2006" .Date }}</small>
     </div>
   </div>
 
@@ -67,7 +67,7 @@
 
   <div class="row">
     <div class="col">
-      <h2>Show Notes</h2>
+      <h2>Notas del episodio</h2>
       {{ .Content }}
     </div>
   </div>
@@ -75,7 +75,7 @@
   {{ with .Params.guests }}
         <div class="row">
           <div class="col">
-            <h2>Guests</h2>
+            <h2>Invitados/as</h2>
           </div>
         </div>
             {{ range $name := . }}
@@ -189,7 +189,7 @@
   {{ with .Params.hosts }}
   <div class="row">
     <div class="col">
-      <h2>Hosts</h2>
+      <h2>Anfitriones/as</h2>
     </div>
   </div>
       {{ range $name := . }}

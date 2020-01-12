@@ -7,7 +7,7 @@
 
   <div class="col-md-12">
   <h2>
-  Latest Episode
+Último episodio
   </h2>
 
   {{ range first 1 (where site.RegularPages "Type" "in" site.Params.mainSections) }}
@@ -32,7 +32,7 @@
       <div class = "row homepage_episode_row">
         <div class = "col">
           <a href="{{ .Permalink }}" class = "row_latest_episode_title"><h2>{{ .Title }}</h2></a>
-          <small>Posted on {{ dateFormat "Monday, Jan 2, 2006" .Date }}</small>
+          <small>Publicado el {{ dateFormat "Monday, Jan 2, 2006" .Date }}</small>
         </div>
       </div>
       <div class = "row homepage_episode_row">
@@ -51,7 +51,7 @@
       <div class = "row homepage_episode_row">
         <div class = "col">
           <a href="{{ .Permalink }}" class = "row_latest_episode_title"><h2>{{ .Title }}</h2></a>
-          <small>Posted on {{ dateFormat "Monday, Jan 2, 2006" .Date }}</small>
+          <small>Publicado el {{ dateFormat "Monday, Jan 2, 2006" .Date }}</small>
         </div>
       </div>
       <div class = "row homepage_episode_row">
@@ -69,7 +69,7 @@
     <div class = "row homepage_episode_row">
       <div class = "col-md-12">
         <a href="{{ .Permalink }}" class = "row_latest_episode_title"><h2>{{ .Title }}</h2></a>
-        <small>Posted on {{ dateFormat "Monday, Jan 2, 2006" .Date }}</small>
+        <small>Publicado el {{ dateFormat "Monday, Jan 2, 2006" .Date }}</small>
       </div>
     </div>
     {{- if .Params.episode_image -}}
@@ -143,7 +143,7 @@
       <div class = "row homepage_episode_row">
         <div class = "col-md-12">
           <a href="{{ .Permalink }}" class= "grid_episode_title"><h3 class= "grid_episode_title">{{ .Title }}</h3></a>
-          <small>Posted on {{ dateFormat "Monday, Jan 2, 2006" .Date }}</small>
+          <small>Publicado el {{ dateFormat "Monday, Jan 2, 2006" .Date }}</small>
         </div>
       </div>
       <div class = "row homepage_episode_row">

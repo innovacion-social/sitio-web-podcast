@@ -76,7 +76,7 @@
     <div class="col-lg-4">
     <div class = "row">
       <div class="col">
-        <h3>Episodes Hosted By {{ .Title }}</h3>
+        <h3>Episodios en los que hace de anfitrión/a {{ .Title }}</h3>
         <div class="list-group guest_episode_list">
             {{ $.Scratch.Set "host-name" .File.BaseFileName }}
             {{ range $page := where $.Site.Pages "Type" "episode" }}
