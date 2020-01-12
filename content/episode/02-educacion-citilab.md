@@ -1,6 +1,6 @@
 +++
 title = "Educacion de Calidad con Laia Sanchez y Empar Polo de Citilab"
-Description = "Hoy hablaremos con Laia Sanchez y Empar Polo de Citilab sobre el Objetivo de Desarrollo Sostenbile 4, que trata sobre Educación de Calidad. [Más información](./episode/02-educacion-citilab/)"
+Description = "Hoy hablaremos con Laia Sanchez y Empar Polo de Citilab sobre el Objetivo de Desarrollo Sostenbile 4, que trata sobre Educación de Calidad. [Más información](./02-educacion-citilab/)"
 Date = 2020-01-10T02:11:47+01:00
 PublishDate = 2020-01-10T02:11:47+01:00 # this is the datetime for the when the epsiode was published. This will default to Date if it is not set. Example is "2016-04-25T04:09:45-05:00"
 podcast_file = "02-educacion-citilabinnsoc.mp3" # the name of the podcast file, after the media prefix.
