@@ -94,15 +94,16 @@
       {{- end -}}
       </div>
     {{- end -}}
-  {{- end -}}
-  {{- with .Params.podcast_file -}}
-    <div class = "row">
-      <div class = "col-md-12">
-      <audio src="{{ $.Site.Params.media_prefix }}{{ . }}" preload="auto" />
+      {{- end -}}
+      <!-- begin player row -->  
+    {{- with .Params.podcast_id -}}
+      <div class="row">
+        <div class="col-md-12 player_row">
+	  <iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/{{ . }}/height/90/theme/custom/thumbnail/yes/direction/backward/render-playlist/no/custom-color/000000/" height="90" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+        </div>
       </div>
-    </div>
-  {{- end -}}
-
+      {{- end -}}
+    <!-- end player row -->  
   {{- end -}}
   </div>
 </div>
@@ -168,13 +169,15 @@
           </div>
         {{- end -}}
       </div>
-      {{- with .Params.podcast_file -}}
-        <div class = "row homepage_episode_row">
-          <div class = "col-md-12 player_row">
-            <audio src="{{ $.Site.Params.media_prefix }}{{ . }}" preload="auto" />
-          </div>
+<!-- begin player row -->  
+    {{- with .Params.podcast_id -}}
+      <div class="row">
+        <div class="col-md-12 player_row">
+	  <iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/{{ . }}/height/90/theme/custom/thumbnail/yes/direction/backward/render-playlist/no/custom-color/000000/" height="90" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
         </div>
+      </div>
       {{- end -}}
+    <!-- end player row -->  
 
     {{- end -}}
   {{- end -}}

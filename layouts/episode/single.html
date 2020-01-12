@@ -72,7 +72,15 @@
       {{ .Content | markdownify }}
     </div>
   </div>
-
+  
+  <!-- sharing begins -->
+   <div class="row">
+        <div class="col-md-12">
+          <div id="share"></div>
+        </div>
+      </div>
+      <!-- sharing ends -->
+  
   {{ with .Params.guests }}
         <div class="row">
           <div class="col">
@@ -280,12 +288,7 @@
 
 <!-- end sponsor section -->
       <div class="row">
-        <!-- sharing begins -->
-        <div class="col-md-12">
-          <div id="share"></div>
-        </div>
-      </div>
-      <!-- sharing ends -->
+       
       {{ with .Site.Params.disqusShortname }}
       <!-- disqus begins -->
       <div class="row">
