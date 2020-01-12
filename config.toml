@@ -55,7 +55,7 @@ paginate = "9"
 
 
 [params]
-mainSections = ["episodio"]
+mainSections = ["episode"]
 site_theme = "grey"
 #site_layout = "grid"
 site_layout = "row"
