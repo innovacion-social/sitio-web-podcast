@@ -1,12 +1,12 @@
 +++
 Description = "Bienvenido/a al primer episodio de Innovación Social Podcast! Somos Cecilia Güemes y César Garcia. En el capítulo de hoy te vamos a contar de qué trata este nuevo podcast. Hablaremos también de nuestra motiviación para embarcarnos en esta nueva aventura y sobre los temas que vamos explorar durante la primera temporada."
-Date = 2020-01-10T02:11:28+01:00
+Date = 2020-02-10T02:11:28+01:00
 PublishDate = 2020-01-10T02:11:28+01:00 # this is the datetime for the when the epsiode was published. This will default to Date if it is not set. Example is "2016-04-25T04:09:45-05:00"
 podcast_file = "01-presentaciones.mp3"
 podcast_duration = "08:43"
 podcast_id = 12702806
 #podcast_bytes = "" # the length of the episode in bytes
-episode_image = "img/episode/default.jpg"
+episode_image = "img/episode/01-presentacion_del_podcast.jpg"
 #episode_banner = ""
 #guests = [] # The names of your guests, based on the filename without extension.
 #sponsors = []
