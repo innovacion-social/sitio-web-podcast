@@ -73,7 +73,7 @@ itunes_subscribe = "https://podcasts.apple.com/es/podcast/innovaci%C3%B3n-social
 #soundcloud_subscribe = "http://feeds.soundcloud.com/users/soundcloud:users:203144248/sounds.rss"
 #pocketcasts_subscribe = "http://pcasts.in/feed/feeds.soundcloud.com/users/soundcloud:users:203144248/sounds.rss"
 #mailchimp_subscribe = "//arresteddevops.us3.list-manage.com/subscribe/post?u=5e4cbcac996bb9df25f970a89&amp;id=154fa76bcc"
-ivoox_susbcribe = "https://www.ivoox.com/innovacion-social-podcast_nq_689486_1.html"
+ivoox_subscribe = "https://www.ivoox.com/innovacion-social-podcast_nq_689486_1.html"
 rss_subscribe = "https://innovacionsocial.libsyn.com/rss" #only set this if you don't want to use the built-in feed
 description = "Innovacion Social Podcast te acerca las últimas novedades de los proyectos que te inspiran"
 media_prefix = "http://traffic.libsyn.com/innovacionsocial/"
